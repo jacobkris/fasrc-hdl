@@ -3,3 +3,4 @@ Flexible arbitrary rate sample converter (FASRC) in HDL. Tested and implemented 
 
 ## Design
 
+[comment]: ![Design](figs/flexrate_design.svg)
