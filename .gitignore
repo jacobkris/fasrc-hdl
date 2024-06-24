@@ -1,3 +1,6 @@
 vivado/*
 !vivado/fasrc-hdl.xpr
 !vivado/fasrc-hdl.srcs/
+
+/overlay/*.sh
+/notebook/*.sh
